@@ -1,0 +1,7 @@
+id = "moonlit"
+name = "Moonlit"
+version = "1.0.0"
+schema_version = 1
+authors = ["Wolley <130301036+wolleydev@users.noreply.github.com>"]
+description = "Moonlit theme for Zed"
+repository = "tbd"
